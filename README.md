@@ -1,4 +1,4 @@
-# study-anomaly-detection
+# Anomaly detection: supporting evidence on Neural Networks
 
 ## Objective
 
